@@ -1,0 +1,22 @@
+{
+  "name": "cart-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariuschris/Cart-Simulator.git"
+  },
+  "author": "Marius_UC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariuschris/Cart-Simulator/issues"
+  },
+  "homepage": "https://github.com/mariuschris/Cart-Simulator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
